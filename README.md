@@ -1,3 +1,4 @@
-# Digital Store
+# Practical Buying Guides
 
-Static crypto storefront. Each product has a dedicated BTC/LTC address.
+Affiliate content site. Published via GitHub Pages.
+Replace `YOUR-TAG` in tracked links with your real affiliate tag before publishing.
